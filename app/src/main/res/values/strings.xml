@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">END</string>
+    <string name="title_products">Products</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- menu items -->
+    <string name="menu_filter">Filter</string>
+    <string name="menu_sort">Sort</string>
+    <string name="menu_view">View</string>
+    <string-array name="menu_sort_values">
+        <item>Latest</item>
+        <item>Price (High)</item>
+        <item>Price (Low)</item>
+        <item>Sort</item>
+    </string-array>
+
+    <string-array name="menu_view_values">
+        <item>Product</item>
+        <item>Outfit</item>
+        <item>Large</item>
+        <item>Small</item>
+        <item>View</item>
+    </string-array>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!-- Product -->
+    <string name="product_items">%1$s items</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        style="?spinnerDropDownItemStyle"
+        android:id="@+id/text_view_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:ellipsize="marquee"
+        android:gravity="start|center"
+        android:paddingStart="24dp"
+        android:paddingEnd="8dp"
+        android:singleLine="true"
+        tools:text="TEST ITEM"
+        tools:textColor="@android:color/black" />

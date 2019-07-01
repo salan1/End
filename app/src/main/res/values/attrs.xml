@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProductItemView">
+        <attr name="textView_title" format="string" />
+        <attr name="textView_price" format="string" />
+        <attr name="imageView_product" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="HintSpinner">
+        <attr name="hint" format="string" />
+    </declare-styleable>
+</resources>
